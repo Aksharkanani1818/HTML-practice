@@ -14,7 +14,8 @@ body, html {
   /* Add styles to the form container */
   .container {
     position: absolute;
-    left: 500px;
+    left: 35%;
+    right: 30%;
     margin: 40px;
     max-width: 400px;
     padding: 16px;
